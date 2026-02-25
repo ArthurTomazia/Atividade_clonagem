@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 body{
     background-color: rgb(255, 255, 255);
 }
+=======
+
+>>>>>>> 10740bdf3944c06e2fc8565120e9692057a4ea60
 
 #tabela1{
     background-color: rgb(161, 209, 255);
@@ -30,9 +34,6 @@ height: 300px;
 
 
 #Navbar{
-     display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 0px;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ 
+
 }
