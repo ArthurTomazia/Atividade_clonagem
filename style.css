@@ -92,13 +92,13 @@ height: 300px;
 
 
 
+.navbar{
 
-
-#img_navabar{
-    width: 100vw;
 }
-
-
+#img_navabar{
+    width: 100%;
+    padding: 0px;
+}
 
 
 
