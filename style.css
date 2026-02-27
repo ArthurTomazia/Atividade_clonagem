@@ -24,6 +24,21 @@ height: 300px;
 
 }
 
+.flex{
+        display: flex;
+    text-align: center;
+    justify-content: space-around;
+    padding: 6px;
+    background-color: rgb(90, 95, 95);
+}
+
+.retangulo{
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    padding: 6px;
+    background-color: rgb(83, 161, 224);
+}
 
 #tabela3{
     
