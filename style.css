@@ -9,6 +9,12 @@ body{
 #tabela1{
     background-color: rgb(161, 209, 255);
 
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    padding: 6px;
+    background-color: rgb(50, 179, 211);
+    flex-wrap: wrap;
     
 }
 #tabela2{
@@ -16,13 +22,31 @@ background-color: rgb(80, 82, 82);
 border: 4px solid rgb(255, 255, 255);
 
 }
-
+.retangulo{
+    
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    padding: 6px;
+    background-color: rgb(150, 153, 155);
+}
 .Material{
 width: 300px;
 height: 300px;
 
 
 }
+
+.Flex{
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    padding: 6px;
+background-color: rgb(69, 167, 212);
+
+}
+
+
 
 
 
