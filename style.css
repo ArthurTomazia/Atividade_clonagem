@@ -76,13 +76,14 @@ height: 300px;
     padding: 0px;
 }
 #barra{
-    background-color: gray;
+    background-color: rgb(187, 185, 185);
     width: 100%;
     padding: 2px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 #botão{
-    
+    padding: auto;
+background-color: rgb(187, 185, 185);
 }
 
 
