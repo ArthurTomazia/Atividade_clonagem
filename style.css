@@ -25,6 +25,28 @@ height: 300px;
 }
 
 
+#tabela3{
+    
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    padding: 6px;
+    background-color: rgb(3, 247, 255);
+}
+
+.pedidos{
+    
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    padding: 6px;
+    background-color: rgb(158, 160, 160);
+}
+
+.img_pedido{
+    width: 300px;
+height: 300px;
+}
 
 
 
