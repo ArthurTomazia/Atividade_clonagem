@@ -46,13 +46,15 @@ height: 300px;
 
 
 
-
+.navbar
 
 #img_navabar{
     width: 100vw;
 }
 
-
+.red{
+    background-color: black;
+}
 
 
 
